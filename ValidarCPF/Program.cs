@@ -1,4 +1,4 @@
-﻿using Caelum.Stella.CSharp.Validation;
+﻿using Caelum.Stella.CSharp.Validation; //PRECISA INSTALAR ESSE PACOTE
 using System;
 using System.Diagnostics;
 
